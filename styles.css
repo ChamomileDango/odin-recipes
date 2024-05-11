@@ -1,7 +1,17 @@
 body{
-    background-color: #EEC37F;
+    background-color:#0E4675;
+    color:#F9D4DB;
 }
 
 .title{
     text-align: center;
+}
+
+a:link{
+    color:#F9D4D;
+
+}
+
+a:visited{
+color:#FF9690;
 }
