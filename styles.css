@@ -16,6 +16,10 @@ a:visited{
 color:#FF9690;
 }
 
+a:hover{
+    color:#F9545B;
+}
+
 .home-list{
     text-align: center;
     list-style-type:none;
