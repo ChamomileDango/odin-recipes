@@ -8,7 +8,7 @@ body{
 }
 
 a:link{
-    color:#F9D4D;
+    color:#F9D4DB;
 
 }
 
@@ -22,6 +22,8 @@ color:#FF9690;
     display:flex;
     justify-content: space-around;
     margin:50px;
-
 }
 
+ul, ol{
+    line-height:30px;
+}
